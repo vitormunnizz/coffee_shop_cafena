@@ -5,6 +5,10 @@ Website desenvolvido para uma **cafeteria fictícia**, utilizando **HTML**, **CS
 
 <img width="1664" height="825" alt="Captura de tela de 2025-10-13 13-36-51" src="https://github.com/user-attachments/assets/4d5d451a-7342-449e-8cde-7c62b8b2161d" />
 
+---
+
+<img width="1050" height="724" alt="Captura de tela de 2025-10-13 13-38-59" src="https://github.com/user-attachments/assets/1fdd5bef-085c-478b-a82d-84aed86e6390" />
+
 ## 🧠 Tecnologias Utilizadas
 
 - **HTML5** – Estrutura semântica do site  
