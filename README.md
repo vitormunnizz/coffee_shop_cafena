@@ -3,7 +3,7 @@
 
 Website desenvolvido para uma **cafeteria fictícia**, utilizando **HTML**, **CSS** e **JavaScript puro**, com foco em **design moderno**, **responsividade** e **navegação fluida**. O projeto foi criado para demonstrar habilidades de **desenvolvimento front-end** e **criação de interfaces atraentes** com HTML semântico, animações CSS e interatividade com JavaScript.
 
-<img width="1068" height="553" alt="Preview do Projeto" src="coloque-aqui-o-link-da-imagem" />
+<img width="1664" height="825" alt="Captura de tela de 2025-10-13 13-36-51" src="https://github.com/user-attachments/assets/4d5d451a-7342-449e-8cde-7c62b8b2161d" />
 
 ## 🧠 Tecnologias Utilizadas
 
