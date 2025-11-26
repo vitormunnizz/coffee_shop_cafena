@@ -65,6 +65,7 @@ cd coffee_shop_cafena-main
 **Vitor Hugo Muniz de Sousa Santos**
 
 💼 Engenheiro da Computação | Desenvolvedor Front-end
+
 📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
 🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
